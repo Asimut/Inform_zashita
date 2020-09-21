@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5mT12ZOLb1b":
+      case "6Z1dXG9OSvm":
         Script1();
         break;
   }
@@ -27,6 +27,6 @@ function typeText() {
   }
 
 // A letter is typed every 100ms, adjust the typing speed by changing the 100 number below
-var myInterval = setInterval(typeText, 100); 
+var myInterval = setInterval(typeText, 40); 
 }
 
